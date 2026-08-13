@@ -1,0 +1,67 @@
+header {
+  background-color: #29707e;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  margin: 0;
+  border-bottom: 4px solid #1c4c5c;
+  width: 100%;
+}
+
+header h1 {
+  margin: 0;
+  padding: 0.5rem;
+  font-size: 2rem;
+  font-family: 'Dubai' , 'Courier New', Courier, monospace;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+p {
+font-size : 20px;
+text-align: center;
+font-family: 'Dubai' , 'Courier New', Courier, monospace ,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif , 'Helvetica Neue', sans-serif;
+}
+
+h2 {
+font-size : 15px;
+font-family: 'Courier New', Courier, monospace ,'Segoe UI', Tahoma, Geneva, Verdana, sans-serif , 'Helvetica Neue', sans-serif;
+text-align: center;
+}
+
+.headerimg {
+text-align: center;
+border: 0cm;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+width: 100%;
+}
+
+.list {
+margin: 0 auto;
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px;
+}
+
+.login {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    center: 50px;
+    color: #29707e;
+}
+
+.signup {
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    center: 50px;
+    color: #29707e;
+}
